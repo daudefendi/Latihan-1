@@ -1,1 +1,3 @@
 # Latihan-1
+# CARA MENGGUNAKAN GIT DAN GIT BASH
+
