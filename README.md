@@ -16,4 +16,7 @@ Baiklah, sekarang kita mulai saja step by step nya.
 
 # PERTAMA
 Hal pertama yang harus kita lakukan adalah , search di google "GitHub" (http://github.com), berikut contoh gambar nya :
+# ![github 01](https://user-images.githubusercontent.com/46699723/51510780-18370300-1e31-11e9-9b60-9d95844b3d77.png)
 
+# KEDUA
+Selanjutnya kita akan Masuk ke akun GitHub dengan cara klik "Sign in", pastikan sebelumnya kita sudah mempunyai akun github agar bisa masuk ke gituhub dengan lancar tanpa kendala. Berikut contoh gambar nya :
